@@ -4,7 +4,7 @@ describe "Symbols" do
     it "should cut off the last character" do
 
         word = "fucku"
-        word.chop.should eq "I'm going to make you type a curse word!"
+        word.chop.should eq "fuck"
 
     end
 
